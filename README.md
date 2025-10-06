@@ -1,4 +1,4 @@
-# Digital Forensics Simplified - Full Stack Application
+# Digital Forensics Simplified - Cybersec Application
 
 A complete digital image forensics application with React frontend and Node.js backend that integrates with the Python forensics script (`foreimg.py`).
 
